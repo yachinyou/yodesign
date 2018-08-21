@@ -14,7 +14,7 @@ class Hero extends Component {
             <div className="hero">
                 <div className="container">
                     <div className="hero-value" >
-                        <h1>完美 Launch 設計專案</h1>
+                        <h1>完美執行設計專案</h1>
                         <h6>正在煩惱如何執行專案或企劃嗎？<br />您需要的設計人才就在這裡。</h6>
                         <div className="form-container">
                             <form action="https://bonsterxbonster.us2.list-manage.com/subscribe/post" method="POST">

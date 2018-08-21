@@ -14,7 +14,7 @@
 }
 
 .sell-text h2{
-    font-size: 1.75em;
+    font-size: 2.5em;
     font-weight: 800;
     margin-top: 1em;
 }
@@ -27,6 +27,11 @@
     margin-top: 2em;
     margin-bottom: 2em;
 }
+
+.extra-padding {
+    padding: 1em;
+}
+
 
 .sell1-image img{
     width: 100%;
