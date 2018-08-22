@@ -71,10 +71,13 @@
 
 
 @media only screen and (max-width: 575px) {
-    
-    .hero-image img{
-        display: none;
+
+    .hero {
+        background-position: right 2em top 2em;
+        background-size: 30%;
+        padding: 6em;
     }
+    
 
     .hero-value form {
         width: 100%;

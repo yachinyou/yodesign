@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-import { ReactTitle } from 'react-meta-tags';
 import { BrowserRouter, Route } from 'react-router-dom';
 import NavBar from './Components/NavBar/NavBar';
 import Hero from './Components/Hero/Hero';
@@ -24,7 +23,6 @@ class App extends Component {
     return (
       <BrowserRouter>
         <div className="App">
-          <ReactTitle title="Live Code Help" />
           <Route path="/" component={NavBar} />
           <Route path="/" exact component={SellSheet} />
           <Route path="/thankyou" exact component={ThankYou} />

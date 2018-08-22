@@ -14,11 +14,10 @@ class SignUpThankYou extends Component {
                 <div className="row">
                     <div className="col-xl-3 col-lg-3 col-md-2 col-sm-12 col-12"></div>
                     <div className="col-xl-6 col-lg-6 col-md-8 col-sm-12 col-12">
-                        <h2>You're in for the free trial</h2>
-                            <h6>Thank you for joining the free trial! <span className="bold">We are still working hard to bring Live Code Help to you at this moment</span>,
-                            and you'll be the first to know when it's ready.</h6>
-                            <h6>In the mean time, if you have any questions, suggestions or just want to say hi,
-                            we are over at <span className="bold">livecodehelp (at) gmail (dot) com</span>.</h6>
+                        <h2>已將您加入體驗VIP名單</h2>
+                            <h6>感謝您加入優設計的搶先體驗活動。 <span className="bold">目前我們的團隊正在努力開發中</span>,
+                            您將會在第一時間內得知我們正式發佈的消息！</h6>
+                            <h6>如果您有任何疑問或建議，還是想打聲招呼，歡迎聯絡我們： <span className="bold">yodesign (at) gmail (dot) com</span>.</h6>
                     </div>
                     <div className="col-xl-3 col-lg-3 col-md-2 col-sm-12 col-12"></div>
                 </div>
