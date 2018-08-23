@@ -36,8 +36,8 @@ class SellSheet extends Component {
                         </div>
                         <div className="sell-text col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12" >
                             <h2>人才名單直送 Email</h2>
-                            <h6>不知道要去哪裡找設計師？一個徵才訊息收到100封Email看不完嗎？</h6>
-                            <h6>優設計把您需要的人才名單直送到Email，馬上開始談專案。</h6>
+                            <h6>不知道要去哪裡找設計師？一個徵才訊息收到100個回應看不完嗎？</h6>
+                            <h6>優設計精挑符合您需要的人才名單直送到Email，馬上開始談專案。</h6>
                         </div>
                         <div className="col-xl-2 col-lg-2 col-md-12 col-sm-12 col-12" ></div>
                     </div>
