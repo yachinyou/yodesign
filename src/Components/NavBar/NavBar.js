@@ -35,14 +35,14 @@ class NavBar extends Component {
         return(
             <Navbar light expand="md">
                 <NavbarBrand href="/"><img className="navbar-logo" src={Logo} alt="UX Challenge logo" /></NavbarBrand>
-                <NavbarToggler onClick={this.toggle} />
+                {/* <NavbarToggler onClick={this.toggle} />
                 <Collapse isOpen={this.state.isOpen} navbar>
                 <Nav className="ml-auto" navbar>
                 <NavItem>
                     <NavLink href="/about">About</NavLink>
                 </NavItem>
             </Nav>
-          </Collapse>
+          </Collapse> */}
         </Navbar>
         )
     }

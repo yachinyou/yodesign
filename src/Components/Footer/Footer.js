@@ -11,8 +11,8 @@ class Footer extends Component {
     render() {
         return(
             <div className="footer paper">
-                <h6>讓優設計幫您準備好</h6>
-                <h2>高效能專案必備的設計人才</h2>
+                <h6>讓優設計幫您</h6>
+                <h2>漂亮準時交案</h2>
                 <div className="form-container">
                     <form action="https://uxchallenge.us2.list-manage.com/subscribe/post" method="POST">
                         <Input type="hidden" name="u" value="7cdd3e7148bfb13d3deb11a50" />

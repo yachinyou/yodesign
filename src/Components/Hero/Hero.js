@@ -14,8 +14,8 @@ class Hero extends Component {
             <div className="hero">
                 <div className="container">
                     <div className="hero-value" >
-                        <h1>完美執行設計專案</h1>
-                        <h6>讓優質設計師幫您漂亮準時交出專案</h6>
+                        <h1>完美啟動設計專案</h1>
+                        <h6>與人才合作，優設計協助您！</h6>
                         <div className="form-container">
                             <form action="https://uxchallenge.us2.list-manage.com/subscribe/post" method="POST">
                                 <Input type="hidden" name="u" value="7cdd3e7148bfb13d3deb11a50" />
